@@ -1,0 +1,15 @@
+Passos para enviar ao git hub
+
+git add
+
+git commit -m ""
+git push -u origin main 
+
+
+
+
+
+Passos depois de fazer um novo repositorio
+git branch -M main
+git remote add origin https://github.com/MarcosRuby/pythonautomacao.git
+ git push -u origin main
